@@ -1,8 +1,8 @@
-This project is about newlettter signup which helps you to sign people up to your mailing list.
+This project is about newslettter signup which helps you to sign people up to your mailing list.
 It uses HTML, CSS, JavaScript and API.
 Brief Description:
 1. Sign people up to your mailing list.
-2. Use of mailchimp api.
+2. Use of Mailchimp API.
 
 Installation Guide:
 
